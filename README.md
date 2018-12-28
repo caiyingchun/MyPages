@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[Welcome to Github Pages](https://caiyingchun.github.io/caiyingchun.github.io/2018/12/28/hello.html)
+[Welcome to Github Pages](https://caiyingchun.github.io/YCCai/2018/12/28/hello.html)
 
 You can use the [editor on GitHub](https://github.com/caiyingchun/caiyingchun.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
